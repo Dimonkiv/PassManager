@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PassManager</string>
+    <string name="welcome_text">Для доступу до сховища вам потрібно створити обліковий запис</string>
+    <string name="bold_logo">Pass</string>
+    <string name="normal_logo">Manager</string>
+    <string name="button_registration_text">створити обілковий запис</string>
+    <string name="email">Адреса електронної пошти</string>
+    <string name="password">Головний пароль</string>
+    <string name="sign_up_tips1">Головний пароль використовується для доступу до вашого сховища. Дуже важливо, щоб ви запам’ятали його. Якщо ви забудете головний пароль, його неможливо буде відновити.</string>
+    <string name="reenter_password">Введіть головний пароль ще раз</string>
+    <string name="tips">Підказка для головного паролю</string>
+    <string name="sign_up_tips2">Якщо ви забудете головний пароль, підказка може допомогти вам згадати його.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
